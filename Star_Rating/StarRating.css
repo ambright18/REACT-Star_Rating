@@ -1,0 +1,14 @@
+body{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.active{
+    color: hsl(58, 100%, 50%);
+    cursor: pointer;
+}
+.inactive{
+    color: black;
+}
